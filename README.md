@@ -3,7 +3,9 @@
 A RESTful API built using **Django** and **Django REST Framework (DRF)** for managing vehicle inventory and vehicle bookings. The application provides complete CRUD (Create, Read, Update, Delete) operations for vehicles and bookings, supports filtering, validates booking requests, prevents double bookings, and automatically calculates booking charges.
 
 ---
+VIDEO LINK 
 
+https://drive.google.com/file/d/177Ly5qsKaOqcH5E7kGll78L9C-Rjly6Q/view?usp=sharing
 # Live Deployment
 
 ### Live Application
